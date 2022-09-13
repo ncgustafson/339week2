@@ -1,0 +1,46 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+
+ }
+ 
+ nav li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    padding: 5px;
+    display: inline-block;
+    height: 20px;
+    border: 1px solid black;
+    width: 200px;
+    background-color: aqua;
+    margin: 10px 0;
+    border-radius: 20px;
+
+ }
+
+ main img {
+    width: 24%;
+    padding: 15px;
+    border-image: fill;
+    margin: 0;
+    box-sizing: border-box;
+    border-style: dotted;
+    border: black;
+ }
+
+ p {
+    font-size: 30px;
+    color: red;
+    background: pink;
+    border: 5px dashed greenyellow;
+ }
